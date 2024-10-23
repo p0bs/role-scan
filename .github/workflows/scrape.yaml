@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '42 4 3 * *'
+    - cron:  '32 16 * * *'
 
 name: scrape
 
@@ -32,5 +32,5 @@ jobs:
         run: |
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "<>"
-          git commit products.csv -m 'Scraping' || exit 0
+          git commit roles.csv -m 'More scraping' || exit 0
           git push origin

@@ -9,7 +9,7 @@ old <- readr::read_csv(
 # The data is publicly available so we don't need to authenticate
 googlesheets4::gs4_deauth()
 
-data_new <- googlesheets4::read_sheet(
+data_scraped <- googlesheets4::read_sheet(
   ss = link_sheet, 
   skip = 1, 
   col_types = "ccccDcc"
@@ -28,10 +28,13 @@ data_new <- googlesheets4::read_sheet(
   dplyr::rowwise() |> 
   dplyr::mutate(hash_url = rlang::hash(name_url)) |> 
   dplyr::select(-value_salary1, -value_salary2) |> 
+  dplyr::ungroup()
+
+data_new <- data_scraped |> 
   dplyr::filter(
     value_salary > 30000,
     is_partTime,
-    !(name_url %in% old$name_url)
+    !(hash_url %in% old$hash_url)
     )
 
 readr::write_csv(
