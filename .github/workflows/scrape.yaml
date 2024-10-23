@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '32 16 * * *'
+    - cron:  '55 16 * * *'
 
 name: scrape
 
