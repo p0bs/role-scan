@@ -1,10 +1,8 @@
 link_sheet <- "https://docs.google.com/spreadsheets/d/1o-onWE1_u4QthMlY493-3dIFi2nMDVieZPKNaYFMNYk/"
 
-old <- readr::read_csv(
-  file = "roles.csv", 
-  col_types = "ccccDccdl", 
-  col_names = TRUE
-  )
+old <- read.csv("roles.csv")
+old$date_closing <- as.Date(old$date_closing)
+old$value_salary <- as.numeric(old$value_salary)
 
 # The data is publicly available so we don't need to authenticate
 googlesheets4::gs4_deauth()
@@ -13,33 +11,53 @@ data_scraped <- googlesheets4::read_sheet(
   ss = link_sheet, 
   skip = 1, 
   col_types = "ccccDcc"
-  ) |> 
-  dplyr::select(
-    "name_job" = Job, "name_firm" = Organisation, `Salary (GBP)`, 
-    "name_url" = URL, `Closing Date`, name_region = Region, 
-    "name_contract" = `Contract/Hours`
-    ) |> 
-  dplyr::mutate(
-    value_salary2 = stringr::str_extract(`Salary (GBP)`, "£\\d+,\\d+"),
-    value_salary1 = stringr::str_extract(value_salary2, "(?<=£).*"),
-    value_salary = as.numeric(stringr::str_remove(value_salary1, ",")),
-    is_partTime = stringr::str_detect(stringr::str_to_lower(name_contract), "part"),
-  ) |> 
-  dplyr::rowwise() |> 
-  dplyr::mutate(hash_url = rlang::hash(name_url)) |> 
-  dplyr::select(-value_salary1, -value_salary2) |> 
-  dplyr::ungroup()
+)
 
-data_new <- data_scraped |> 
-  dplyr::filter(
-    value_salary > 30000,
-    is_partTime,
-    !(hash_url %in% old$hash_url)
+colnames(data_scraped) <- c("name_job", "name_firm", "salary_GBP", "name_url", "date_closing", "name_region", "name_contract")
+
+data_scraped$value_salary2 <- gsub(
+  "£(\\d+,\\d+).*", "\\1", 
+  data_scraped$salary_GBP
+  )
+
+data_scraped$value_salary1 <- gsub(
+  ".*£(.*)", "\\1", 
+  data_scraped$value_salary2
+  )
+
+data_scraped$value_salary <- as.numeric(
+  gsub(
+    ",.*", 
+    "", 
+    data_scraped$value_salary1
     )
+  )
 
-readr::write_csv(
+data_scraped$is_partTime <- grepl(
+  "part", 
+  tolower(data_scraped$name_contract)
+  )
+
+data_scraped <- data_scraped[order(rownames(data_scraped)), ]  # To maintain rowwise operations
+
+for (i in 1:nrow(data_scraped)) {
+  data_scraped$hash_url[i] <- digest::digest(
+    data_scraped$name_url[i], 
+    algo = "md5"
+    )
+}
+
+data_scraped <- data_scraped[, c(colnames(data_scraped)[!colnames(data_scraped) %in% c("value_salary1", "value_salary2")])]
+
+data_new <- subset(
+  data_scraped, 
+  value_salary > 30000 & is_partTime & !(hash_url %in% old$hash_url)
+  )
+
+write.table(
   x = data_new, 
   file = "roles.csv", 
-  col_names = FALSE,
+  row.names = FALSE, 
+  col.names = FALSE, 
   append = TRUE
   )
