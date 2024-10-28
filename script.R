@@ -54,6 +54,11 @@ data_new <- subset(
   value_salary > 30000 & is_partTime & !(hash_url %in% old$hash_url)
   )
 
+data_log <- data.frame(
+  value_date = date(),
+  value_rows = nrow(data_new)
+  )
+
 write.table(
   x = data_new, 
   file = "roles.csv", 
@@ -61,3 +66,11 @@ write.table(
   col.names = FALSE, 
   append = TRUE
   )
+
+write.table(
+  x = data_log, 
+  file = "log.csv", 
+  row.names = FALSE, 
+  col.names = FALSE, 
+  append = TRUE
+)
