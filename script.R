@@ -62,6 +62,7 @@ data_log <- data.frame(
 write.table(
   x = data_new, 
   file = "roles.csv", 
+  sep = ",",
   row.names = FALSE, 
   col.names = FALSE, 
   append = TRUE
@@ -69,6 +70,7 @@ write.table(
 
 write.table(
   x = data_log, 
+  sep = ",",
   file = "log.csv", 
   row.names = FALSE, 
   col.names = FALSE, 
