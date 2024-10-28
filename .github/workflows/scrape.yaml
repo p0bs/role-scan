@@ -1,10 +1,8 @@
-# Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
-# Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron:  '55 16 * * *'
+  # Run every 2 hours at 2 minutes past the hour
+  schedule: [{cron: '2 0/2 * * *'}]
 
 name: scrape
 
@@ -16,21 +14,13 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+    - uses: actions/checkout@v4
+    - uses: r-lib/actions/setup-r@v2
+      with:
+        use-public-rspm: true
+    - uses: r-lib/actions/setup-r-dependencies@v2
 
-      - uses: r-lib/actions/setup-r@v2
+    - name: Fetch latest data
+      run: Rscript script.R
 
-      - uses: r-lib/actions/setup-r-dependencies@v2
-
-      - name: Fetch latest data
-        run:  Rscript script.R
-
-      - name: Commit Results
-        run: |
-          git config --local user.name "$GITHUB_ACTOR"
-          git config --local user.email "<>"
-          git commit roles.csv -m 'More scraping' || exit 0
-          git push origin
+    - uses: stefanzweifel/git-auto-commit-action@v5
