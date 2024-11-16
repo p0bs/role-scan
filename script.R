@@ -51,7 +51,7 @@ data_scraped <- data_scraped[, c(colnames(data_scraped)[!colnames(data_scraped) 
 
 data_new <- subset(
   data_scraped, 
-  value_salary > 30000 & is_partTime & !(hash_url %in% old$hash_url)
+  value_salary > 30 & is_partTime & !(hash_url %in% old$hash_url)
   )
 
 data_log <- data.frame(
