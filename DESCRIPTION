@@ -15,4 +15,6 @@ Depends:
     R (>= 4.1)
 Imports: 
     digest,
-    googlesheets4
+    googlesheets4,
+    knitr,
+    rmarkdown

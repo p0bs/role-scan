@@ -1,0 +1,36 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE
+  )
+```
+
+### Open roles that might be interesting
+
+<br/>
+
+```{r, warning=FALSE}
+data <- read.csv("roles.csv")[, c("name_job", "name_firm", "date_closing", "value_salary", "name_region", "name_contract")]
+
+data$date_closing <- as.Date(data$date_closing)
+data$value_salary <- as.integer(data$value_salary)
+
+date_today <- Sys.Date()
+data_filtered <- subset(
+  data, 
+  date_closing > date_today
+  )
+
+knitr::kable(
+  data_filtered,
+  format = "html",
+  col.names = c("Job ", "Firm", "Closing", "Salary", "Region", "Contract"),
+  padding = 5, 
+  row.names = FALSE
+  )
+```

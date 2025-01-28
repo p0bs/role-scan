@@ -59,6 +59,8 @@ data_log <- data.frame(
   value_rows = nrow(data_new)
   )
 
+# Saving data ----
+
 write.table(
   x = data_new, 
   file = "roles.csv", 
@@ -76,3 +78,7 @@ write.table(
   col.names = FALSE, 
   append = TRUE
 )
+
+# Rendering the README ----
+
+rmarkdown::render("README.Rmd")
