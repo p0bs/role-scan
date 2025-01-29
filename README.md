@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-### Open roles that might be interesting
+### Open roles that might be interesting to someone
 
 <br/>
 
