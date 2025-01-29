@@ -10,7 +10,7 @@ knitr::opts_chunk$set(
   )
 ```
 
-### Open roles that might be interesting
+### Open roles that might be interesting to someone
 
 <br/>
 
