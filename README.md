@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Data & Supporter Care Manager
-</td>
-<td style="text-align:left;">
-Hospice in the Weald
-</td>
-<td style="text-align:left;">
-2025-01-30
-</td>
-<td style="text-align:right;">
-40
-</td>
-<td style="text-align:left;">
-TN2, Tunbridge Wells (On-site)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (30 - 37.5 hours per week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Analyst and Database Manager
 </td>
 <td style="text-align:left;">
