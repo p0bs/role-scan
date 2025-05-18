@@ -90,25 +90,5 @@ Contract (6 months contract with extension ), Part-time (2 - 3 days per
 week)
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Data Architecture and Governance Manager
-</td>
-<td style="text-align:left;">
-Sightsavers
-</td>
-<td style="text-align:left;">
-2025-05-18
-</td>
-<td style="text-align:right;">
-51
-</td>
-<td style="text-align:left;">
-Haywards Heath, West Sussex (Hybrid), United Kingdom
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (35 or 28 per week)
-</td>
-</tr>
 </tbody>
 </table>
