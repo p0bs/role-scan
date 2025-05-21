@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Data and Insights Officer
-</td>
-<td style="text-align:left;">
-Alexandra Rose Charity
-</td>
-<td style="text-align:left;">
-2025-05-21
-</td>
-<td style="text-align:right;">
-32
-</td>
-<td style="text-align:left;">
-Brighton, Brighton and Hove (Hybrid), London, Greater London
-</td>
-<td style="text-align:left;">
-Permanent, Part-time ( 22.5 per week, over 3 days)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Data Intelligence & Research Officer
 </td>
 <td style="text-align:left;">
