@@ -30,25 +30,6 @@ Contract
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-Monitoring, Evidence & Learning (MEL) Consultant
-</td>
-<td style="text-align:left;">
-RISE - Reimagining Industry to Support Equality
-</td>
-<td style="text-align:left;">
-2025-05-30
-</td>
-<td style="text-align:right;">
-50
-</td>
-<td style="text-align:left;">
-Remote
-</td>
-<td style="text-align:left;">
-Contract (6 months contract with extension ), Part-time (2 - 3 days per
-week)
-</td>
 </tr>
 </tbody>
 </table>
