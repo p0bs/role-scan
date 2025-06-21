@@ -131,5 +131,66 @@ Alresford, Hampshire (Hybrid)
 Permanent, Part-time (21 hours per week/3 days per week)
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+Data and Statistics Analyst
+</td>
+<td style="text-align:left;">
+The Diocese of Winchester
+</td>
+<td style="text-align:left;">
+2025-07-07
+</td>
+<td style="text-align:right;">
+38
+</td>
+<td style="text-align:left;">
+Alresford, Hampshire (Hybrid)
+</td>
+<td style="text-align:left;">
+Permanent, Part-time (21 hours per week/3 days per week)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Impact and Operations Manager
+</td>
+<td style="text-align:left;">
+Home-Start Richmond Kingston and Hounslow
+</td>
+<td style="text-align:left;">
+2025-07-10
+</td>
+<td style="text-align:right;">
+39
+</td>
+<td style="text-align:left;">
+Richmond, Greater London (Hybrid)
+</td>
+<td style="text-align:left;">
+Permanent, Part-time (21-28 hours per week)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Gower Landscape Connections Data and Evidence Officer
+</td>
+<td style="text-align:left;">
+National Landscapes Association
+</td>
+<td style="text-align:left;">
+2025-07-11
+</td>
+<td style="text-align:right;">
+34
+</td>
+<td style="text-align:left;">
+Remote
+</td>
+<td style="text-align:left;">
+Contract (16 months, with the potential for extension or for the role to
+become permanent.), Full-time or part-time
+</td>
+</tr>
 </tbody>
 </table>
