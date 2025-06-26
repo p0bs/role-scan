@@ -31,48 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Business Analyst
-</td>
-<td style="text-align:left;">
-Purposeful Ventures
-</td>
-<td style="text-align:left;">
-2025-06-26
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-London, Greater London (On-site)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (Full-time (37.5 hours). Part-time
-hours of at least 0.7 FTE will be considered. )
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Business Analyst
-</td>
-<td style="text-align:left;">
-Purposeful Ventures
-</td>
-<td style="text-align:left;">
-2025-06-26
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-London, Greater London (On-site)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (Full-time (37.5 hours). Part-time
-hours of at least 0.7 FTE will be considered. )
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Knowledge & Impact Coordinator
 </td>
 <td style="text-align:left;">
