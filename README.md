@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Knowledge & Impact Coordinator
-</td>
-<td style="text-align:left;">
-Rape Crisis Scotland
-</td>
-<td style="text-align:left;">
-2025-06-30
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Hybrid: Glasgow
-</td>
-<td style="text-align:left;">
-Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Data and Statistics Analyst
 </td>
 <td style="text-align:left;">
