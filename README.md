@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Fundraising and Impact Manager
-</td>
-<td style="text-align:left;">
-Edinburgh Community Food
-</td>
-<td style="text-align:left;">
-2025-07-16
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-Hybrid: Edinburgh
-</td>
-<td style="text-align:left;">
-Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Senior Reporting and Data Analyst
 </td>
 <td style="text-align:left;">
