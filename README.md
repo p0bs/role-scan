@@ -31,27 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Senior Reporting and Data Analyst
-</td>
-<td style="text-align:left;">
-Citizens Advice Sandwell & Walsall
-</td>
-<td style="text-align:left;">
-2025-07-20
-</td>
-<td style="text-align:right;">
-39
-</td>
-<td style="text-align:left;">
-Oldbury, West Midlands (On-site)
-</td>
-<td style="text-align:left;">
-Contract (Fixed Term until 31st March 2026), Part-time (2-3 days per
-week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Data & Insights Manager
 </td>
 <td style="text-align:left;">
