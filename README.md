@@ -30,24 +30,6 @@ Contract
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-Database Implementation Project Manager
-</td>
-<td style="text-align:left;">
-Yorkshire Air Ambulance
-</td>
-<td style="text-align:left;">
-2025-07-22
-</td>
-<td style="text-align:right;">
-36
-</td>
-<td style="text-align:left;">
-Halifax, West Yorkshire (Hybrid)
-</td>
-<td style="text-align:left;">
-Contract (9 months), Part-time (22.5 hours)
-</td>
 </tr>
 </tbody>
 </table>
