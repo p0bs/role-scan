@@ -52,26 +52,6 @@ part-time (35 hours per week)
 </tr>
 <tr>
 <td style="text-align:left;">
-Information & CRM Analyst
-</td>
-<td style="text-align:left;">
-Dundee Carers Centre
-</td>
-<td style="text-align:left;">
-2025-09-03
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-On site: Dundee
-</td>
-<td style="text-align:left;">
-Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Grants operations and data manager
 </td>
 <td style="text-align:left;">
