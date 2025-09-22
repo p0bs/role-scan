@@ -72,26 +72,6 @@ Permanent, Full-time or part-time (37.5hrs p/w FT 30 hrs p/w PT)
 </tr>
 <tr>
 <td style="text-align:left;">
-Data Analyst
-</td>
-<td style="text-align:left;">
-National Energy Action
-</td>
-<td style="text-align:left;">
-2025-09-22
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-Remote
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (37 )
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Head of Finance & Data
 </td>
 <td style="text-align:left;">
@@ -149,26 +129,6 @@ London, Greater London (On-site)
 </td>
 <td style="text-align:left;">
 Permanent, Full-time or part-time (37.5hrs p/w FT 30 hrs p/w PT)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Data Analyst
-</td>
-<td style="text-align:left;">
-National Energy Action
-</td>
-<td style="text-align:left;">
-2025-09-22
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-Remote
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (37 )
 </td>
 </tr>
 <tr>
