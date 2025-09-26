@@ -31,27 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Head of Finance & Data
-</td>
-<td style="text-align:left;">
-The Mix Stowmarket Ltd
-</td>
-<td style="text-align:left;">
-2025-09-26
-</td>
-<td style="text-align:right;">
-45
-</td>
-<td style="text-align:left;">
-Stowmarket, Suffolk (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (22.5 per week - schedule flexible, depending on
-discussion)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Impact and Data Lead
 </td>
 <td style="text-align:left;">
@@ -68,27 +47,6 @@ London, Greater London (On-site)
 </td>
 <td style="text-align:left;">
 Permanent, Full-time or part-time (37.5hrs p/w FT 30 hrs p/w PT)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Head of Finance & Data
-</td>
-<td style="text-align:left;">
-The Mix Stowmarket Ltd
-</td>
-<td style="text-align:left;">
-2025-09-26
-</td>
-<td style="text-align:right;">
-45
-</td>
-<td style="text-align:left;">
-Stowmarket, Suffolk (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (22.5 per week - schedule flexible, depending on
-discussion)
 </td>
 </tr>
 <tr>
