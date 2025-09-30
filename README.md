@@ -30,44 +30,6 @@ Contract
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-Impact and Data Lead
-</td>
-<td style="text-align:left;">
-The Talent Foundry
-</td>
-<td style="text-align:left;">
-2025-09-30
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-London, Greater London (On-site)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (37.5hrs p/w FT 30 hrs p/w PT)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Impact and Data Lead
-</td>
-<td style="text-align:left;">
-The Talent Foundry
-</td>
-<td style="text-align:left;">
-2025-09-30
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-London, Greater London (On-site)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (37.5hrs p/w FT 30 hrs p/w PT)
-</td>
 </tr>
 </tbody>
 </table>
