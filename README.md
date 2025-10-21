@@ -50,26 +50,5 @@ Permanent, Full-time or part-time (Full time, open to discussing
 flexible and part time options with a minimum of 28 hours per week)
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Data and CRM Project Coordinator
-</td>
-<td style="text-align:left;">
-NFP People
-</td>
-<td style="text-align:left;">
-2025-10-21
-</td>
-<td style="text-align:right;">
-42
-</td>
-<td style="text-align:left;">
-Greater London (Hybrid), London, Greater London
-</td>
-<td style="text-align:left;">
-Contract (FTC for 4 months), Part-time (4 days per week with
-flexibility)
-</td>
-</tr>
 </tbody>
 </table>
