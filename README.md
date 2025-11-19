@@ -31,46 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Fundraising Operations and Data Manager
-</td>
-<td style="text-align:left;">
-Villiers Park Educational Trust
-</td>
-<td style="text-align:left;">
-2025-11-19
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Cambridge, Cambridgeshire (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (21 hours per week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fundraising Operations and Data Manager
-</td>
-<td style="text-align:left;">
-Villiers Park Educational Trust
-</td>
-<td style="text-align:left;">
-2025-11-19
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Cambridge, Cambridgeshire (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (21 hours per week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 AI Coordinator
 </td>
 <td style="text-align:left;">
