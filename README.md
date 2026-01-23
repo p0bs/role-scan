@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Data & Impact Lead
-</td>
-<td style="text-align:left;">
-Edinburgh Children’s Hospital Charity
-</td>
-<td style="text-align:left;">
-2026-01-23
-</td>
-<td style="text-align:right;">
-34
-</td>
-<td style="text-align:left;">
-On site: The Royal Hospital for Children and Young People, Edinburgh
-</td>
-<td style="text-align:left;">
-Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Data Integration Project Manager
 </td>
 <td style="text-align:left;">
