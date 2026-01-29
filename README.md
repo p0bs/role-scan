@@ -31,27 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Data Integration Project Manager
-</td>
-<td style="text-align:left;">
-Edinburgh Dog and Cat Home
-</td>
-<td style="text-align:left;">
-2026-01-29
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-Hybrid: Edinburgh (hybrid), with a minimum of 1 day per week in the
-office
-</td>
-<td style="text-align:left;">
-Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Biodiversity Data Manager
 </td>
 <td style="text-align:left;">
