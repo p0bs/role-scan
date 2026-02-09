@@ -71,25 +71,5 @@ Contract (23 month contract), Full-time or part-time (A minimum of 30
 hours for part time)
 </td>
 </tr>
-<tr>
-<td style="text-align:left;">
-Impact and Data Analyst
-</td>
-<td style="text-align:left;">
-Prospectus
-</td>
-<td style="text-align:left;">
-2026-02-09
-</td>
-<td style="text-align:right;">
-45
-</td>
-<td style="text-align:left;">
-London, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (2.5 days per week)
-</td>
-</tr>
 </tbody>
 </table>
