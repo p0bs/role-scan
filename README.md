@@ -30,24 +30,6 @@ Contract
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-Monitoring, Evaluation & Learning Lead - Trase
-</td>
-<td style="text-align:left;">
-Global Canopy
-</td>
-<td style="text-align:left;">
-2026-03-23
-</td>
-<td style="text-align:right;">
-55
-</td>
-<td style="text-align:left;">
-Oxford, UK / Hybrid
-</td>
-<td style="text-align:left;">
-Permanent, Full or Part Time
-</td>
 </tr>
 </tbody>
 </table>
