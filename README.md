@@ -31,27 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Supporter Growth & Insight Manager
-</td>
-<td style="text-align:left;">
-Willen Hospice
-</td>
-<td style="text-align:left;">
-2026-04-13
-</td>
-<td style="text-align:right;">
-40
-</td>
-<td style="text-align:left;">
-Milton Keynes, Milton Keynes (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (35 hours per week, worked Monday to
-Friday)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 CRM & Systems Lead
 </td>
 <td style="text-align:left;">
