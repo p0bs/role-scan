@@ -30,24 +30,6 @@ Contract
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-Database Manager
-</td>
-<td style="text-align:left;">
-Prospect Hospice
-</td>
-<td style="text-align:left;">
-2026-04-27
-</td>
-<td style="text-align:right;">
-40
-</td>
-<td style="text-align:left;">
-Swindon (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (20 hours per week)
-</td>
 </tr>
 </tbody>
 </table>
