@@ -30,6 +30,24 @@ Contract
 </thead>
 <tbody>
 <tr>
+<td style="text-align:left;">
+Data & Performance Project Worker (Macmillan Project)
+</td>
+<td style="text-align:left;">
+Inverness Badenoch & Strathspey CAB
+</td>
+<td style="text-align:left;">
+2026-05-15
+</td>
+<td style="text-align:right;">
+36
+</td>
+<td style="text-align:left;">
+On site: Inverness
+</td>
+<td style="text-align:left;">
+Full time or Part time
+</td>
 </tr>
 </tbody>
 </table>
