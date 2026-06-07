@@ -51,26 +51,6 @@ Permanent, Part-time (21 hours per week)
 </tr>
 <tr>
 <td style="text-align:left;">
-Impact & Evaluation Manager (Mat Cover)
-</td>
-<td style="text-align:left;">
-Imperial Health Charity
-</td>
-<td style="text-align:left;">
-2026-06-07
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-W2, London (On-site)
-</td>
-<td style="text-align:left;">
-Temporary (Up to 12 months, starting August 2026), Part-time (21 hours )
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Prospect Reach and Data Executive
 </td>
 <td style="text-align:left;">
