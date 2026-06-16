@@ -51,47 +51,6 @@ Permanent, Part-time (22.5)
 </tr>
 <tr>
 <td style="text-align:left;">
-Marketing Insight Officer
-</td>
-<td style="text-align:left;">
-Live Borders
-</td>
-<td style="text-align:left;">
-2026-06-16
-</td>
-<td style="text-align:right;">
-31
-</td>
-<td style="text-align:left;">
-Hybrid: Newtown, St Boswells
-</td>
-<td style="text-align:left;">
-Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Data Manager
-</td>
-<td style="text-align:left;">
-Now Teach
-</td>
-<td style="text-align:left;">
-2026-06-16
-</td>
-<td style="text-align:right;">
-39
-</td>
-<td style="text-align:left;">
-London, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (37.5 hours a week, We are happy to
-consider requests for flexible or part time working )
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Impact and Outcomes Manager
 </td>
 <td style="text-align:left;">
