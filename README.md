@@ -31,66 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Senior Quantitative Analyst (Nature Recovery)
-</td>
-<td style="text-align:left;">
-Environmental Standards Scotland
-</td>
-<td style="text-align:left;">
-2026-07-06
-</td>
-<td style="text-align:right;">
-49
-</td>
-<td style="text-align:left;">
-Edinburgh
-</td>
-<td style="text-align:left;">
-Permanent, Full or Part Time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Data Protection Officer
-</td>
-<td style="text-align:left;">
-SafeLives
-</td>
-<td style="text-align:left;">
-2026-07-06
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Remote
-</td>
-<td style="text-align:left;">
-Temporary (Fixed term until March 2027), Part-time (22.5 hours per week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Data Management and Insight Officer
-</td>
-<td style="text-align:left;">
-White Ribbon UK
-</td>
-<td style="text-align:left;">
-2026-07-06
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Remote
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (18.5 per week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Supporter Data & Engagement Manager
 </td>
 <td style="text-align:left;">
