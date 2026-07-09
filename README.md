@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Data Analyst
-</td>
-<td style="text-align:left;">
-Unifrog Education Ltd
-</td>
-<td style="text-align:left;">
-2026-07-09
-</td>
-<td style="text-align:right;">
-40
-</td>
-<td style="text-align:left;">
-Hackney, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time (0.8 FTE)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 HR Data Analyst
 </td>
 <td style="text-align:left;">
