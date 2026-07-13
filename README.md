@@ -31,66 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-HR Data Analyst
-</td>
-<td style="text-align:left;">
-Coram
-</td>
-<td style="text-align:left;">
-2026-07-13
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-Bloomsbury, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Deputy Director of Data and Technology
-</td>
-<td style="text-align:left;">
-Ivy Rock Partners Ltd
-</td>
-<td style="text-align:left;">
-2026-07-13
-</td>
-<td style="text-align:right;">
-75
-</td>
-<td style="text-align:left;">
-City of London, Greater London (On-site)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Research Impact Officer
-</td>
-<td style="text-align:left;">
-Medical Research Foundation
-</td>
-<td style="text-align:left;">
-2026-07-13
-</td>
-<td style="text-align:right;">
-32
-</td>
-<td style="text-align:left;">
-Farringdon, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Wales Insight Officer
 </td>
 <td style="text-align:left;">
