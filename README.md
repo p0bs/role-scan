@@ -150,5 +150,46 @@ Greater London (Hybrid)
 Contract or temporary (12 months), Part-time (3 days a week)
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+Associate Manager, Data & Digital Transformation
+</td>
+<td style="text-align:left;">
+ISEAL Alliance
+</td>
+<td style="text-align:left;">
+2026-08-06
+</td>
+<td style="text-align:right;">
+45
+</td>
+<td style="text-align:left;">
+E2, London (Hybrid)
+</td>
+<td style="text-align:left;">
+Contract (13 months ), Full-time or part-time ( 80 % (30 hours) – 100 %
+(full time, 37.5 hours per week), depending on preference)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Data + Insights Manager
+</td>
+<td style="text-align:left;">
+The University Maths Schools Network
+</td>
+<td style="text-align:left;">
+2026-08-10
+</td>
+<td style="text-align:right;">
+44
+</td>
+<td style="text-align:left;">
+London, Greater London (Hybrid)
+</td>
+<td style="text-align:left;">
+Permanent, Full-time or part-time
+</td>
+</tr>
 </tbody>
 </table>
