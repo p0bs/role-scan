@@ -31,46 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Fundraising and Impact Coordinator
-</td>
-<td style="text-align:left;">
-Dudley Lodge Safeguarding Children Services
-</td>
-<td style="text-align:left;">
-2026-07-27
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Coventry, West Midlands (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (22.5 hours per week )
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Fundraising and Impact Coordinator
-</td>
-<td style="text-align:left;">
-Dudley Lodge Safeguarding Children Services
-</td>
-<td style="text-align:left;">
-2026-07-27
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Coventry, West Midlands (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (22.5 hours per week )
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Database and Insight Manager
 </td>
 <td style="text-align:left;">
