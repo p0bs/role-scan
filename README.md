@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Database and Insight Manager
-</td>
-<td style="text-align:left;">
-The Passage
-</td>
-<td style="text-align:left;">
-2026-08-05
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-London, Greater London (On-site)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Associate Manager, Data & Digital Transformation
 </td>
 <td style="text-align:left;">
