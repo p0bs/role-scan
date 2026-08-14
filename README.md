@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Impact & Evaluation Manager
-</td>
-<td style="text-align:left;">
-The Talent Set
-</td>
-<td style="text-align:left;">
-2026-08-14
-</td>
-<td style="text-align:right;">
-58
-</td>
-<td style="text-align:left;">
-Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Contract or temporary (12 months), Part-time (3 days a week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Data and Insights Manager
 </td>
 <td style="text-align:left;">
