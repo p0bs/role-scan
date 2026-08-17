@@ -31,47 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Data and Insight Manager
-</td>
-<td style="text-align:left;">
-Croydon Drop In
-</td>
-<td style="text-align:left;">
-2026-08-17
-</td>
-<td style="text-align:right;">
-39
-</td>
-<td style="text-align:left;">
-Croydon, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Contract (Fixed term until 30th June 2028), Part-time (21 hours per
-week)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Senior Data and Impact Officer
-</td>
-<td style="text-align:left;">
-HENRY
-</td>
-<td style="text-align:left;">
-2026-08-17
-</td>
-<td style="text-align:right;">
-31
-</td>
-<td style="text-align:left;">
-Witney, Oxfordshire (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Digital & Data Transformation Manager
 </td>
 <td style="text-align:left;">
