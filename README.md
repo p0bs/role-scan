@@ -30,24 +30,6 @@ Contract
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left;">
-Digital & Data Transformation Manager
-</td>
-<td style="text-align:left;">
-Keychange
-</td>
-<td style="text-align:left;">
-2026-08-23
-</td>
-<td style="text-align:right;">
-50
-</td>
-<td style="text-align:left;">
-Waterloo, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time
-</td>
 </tr>
 </tbody>
 </table>
