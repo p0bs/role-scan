@@ -129,5 +129,46 @@ London, Greater London (Hybrid)
 Contract (36-month fixed term contract), Part-time (3 days per week)
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+CRM & Data Manager (Part-time, fixed term)
+</td>
+<td style="text-align:left;">
+The Photographers’ Gallery
+</td>
+<td style="text-align:left;">
+2026-09-11
+</td>
+<td style="text-align:right;">
+32
+</td>
+<td style="text-align:left;">
+London, Greater London (Hybrid)
+</td>
+<td style="text-align:left;">
+Contract (36-month fixed term contract), Part-time (3 days per week)
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Impact & Evaluation Manager (Maternity Cover)
+</td>
+<td style="text-align:left;">
+Imperial Health Charity
+</td>
+<td style="text-align:left;">
+2026-09-25
+</td>
+<td style="text-align:right;">
+35
+</td>
+<td style="text-align:left;">
+W2, London (Hybrid)
+</td>
+<td style="text-align:left;">
+Contract (Up to 10 months, until August 2027), Part-time (21 hours per
+week)
+</td>
+</tr>
 </tbody>
 </table>
