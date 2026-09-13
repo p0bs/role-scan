@@ -31,46 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Supporter Data & Engagement Manager
-</td>
-<td style="text-align:left;">
-International Mission To Jewish People
-</td>
-<td style="text-align:left;">
-2026-09-13
-</td>
-<td style="text-align:right;">
-35
-</td>
-<td style="text-align:left;">
-Oxfordshire (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Full-time or part-time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Partnerships Data Analyst – Ben & Jerry’s
-</td>
-<td style="text-align:left;">
-The Fairtrade Foundation
-</td>
-<td style="text-align:left;">
-2026-09-13
-</td>
-<td style="text-align:right;">
-42
-</td>
-<td style="text-align:left;">
-E1, London (Hybrid)
-</td>
-<td style="text-align:left;">
-Permanent, Part-time (17.5)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Data, Insights and Research Manager
 </td>
 <td style="text-align:left;">
@@ -87,26 +47,6 @@ Hybrid: Edinburgh
 </td>
 <td style="text-align:left;">
 Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-Supporter Care Officer (Data)
-</td>
-<td style="text-align:left;">
-Tearfund
-</td>
-<td style="text-align:left;">
-2026-09-13
-</td>
-<td style="text-align:right;">
-33
-</td>
-<td style="text-align:left;">
-Teddington, Greater London (Hybrid)
-</td>
-<td style="text-align:left;">
-Temporary (9 month fixed term contract), Part-time (21 hours per week)
 </td>
 </tr>
 <tr>
