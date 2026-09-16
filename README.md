@@ -31,26 +31,6 @@ Contract
 <tbody>
 <tr>
 <td style="text-align:left;">
-Data, Insights and Research Manager
-</td>
-<td style="text-align:left;">
-Scottish Disability Sport
-</td>
-<td style="text-align:left;">
-2026-09-16
-</td>
-<td style="text-align:right;">
-38
-</td>
-<td style="text-align:left;">
-Hybrid: Edinburgh
-</td>
-<td style="text-align:left;">
-Part time
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 Impact & Evaluation Manager (Maternity Cover)
 </td>
 <td style="text-align:left;">
