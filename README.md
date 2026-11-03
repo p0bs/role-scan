@@ -49,6 +49,37 @@ Contract
 
 <tr>
 
+<td style="text-align:left;">
+
+Monitoring, Evaluation and Learning Officer
+</td>
+
+<td style="text-align:left;">
+
+Cultivate
+</td>
+
+<td style="text-align:left;">
+
+2026-11-10
+</td>
+
+<td style="text-align:right;">
+
+34
+</td>
+
+<td style="text-align:left;">
+
+Newtown, Powys, Wales / Hybrid / Remote (with regional travel across
+Dyfed Powys)
+</td>
+
+<td style="text-align:left;">
+
+Fixed Term, Part Time
+</td>
+
 </tr>
 
 </tbody>
