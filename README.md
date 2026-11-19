@@ -51,40 +51,6 @@ Contract
 
 <td style="text-align:left;">
 
-Senior Campaign Analyst
-</td>
-
-<td style="text-align:left;">
-
-River Action
-</td>
-
-<td style="text-align:left;">
-
-2026-11-19
-</td>
-
-<td style="text-align:right;">
-
-35
-</td>
-
-<td style="text-align:left;">
-
-Home-based with regular travel within / to London and across the UK
-</td>
-
-<td style="text-align:left;">
-
-Permanent, Part Time
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
 Global Impact Measurement Project Manager
 </td>
 
