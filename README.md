@@ -49,36 +49,6 @@ Contract
 
 <tr>
 
-<td style="text-align:left;">
-
-Global Impact Measurement Project Manager
-</td>
-
-<td style="text-align:left;">
-
-St John International
-</td>
-
-<td style="text-align:left;">
-
-2026-11-23
-</td>
-
-<td style="text-align:right;">
-
-32
-</td>
-
-<td style="text-align:left;">
-
-Farringdon, Greater London (Hybrid)
-</td>
-
-<td style="text-align:left;">
-
-Contract (12 Month Maternity Cover - Part Time)
-</td>
-
 </tr>
 
 </tbody>
